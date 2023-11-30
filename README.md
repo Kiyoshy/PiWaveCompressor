@@ -18,9 +18,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 * [Raspberry Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/) the final revision of the third-generation single-board computer.
 
-* [Raspberry Pi OS Desktop](https://www.raspberrypi.com/software/operating-systems/).
+* [Raspberry Pi OS Desktop](https://www.raspberrypi.com/software/operating-systems/)
 
-* [3.5'' RPi Display](http://www.lcdwiki.com/3.5inch_RPi_Display).
+* [3.5'' RPi Display](http://www.lcdwiki.com/3.5inch_RPi_Display)
 
 To configure the display and drivers, proceed as follows:
 ```
@@ -49,22 +49,22 @@ Additionally, you need to configure the audio output of your Raspberry, dependin
 ```
 $ sudo raspi-config
 ```
-Go to <<Advance Options/Audio/Force 3.5mm Jack>> in case you are going to use headphones with that input-output.
+Go to <<Advance Options/Audio/Force 3.5mm Jack>> in case you are going to use headphones with that input/output.
 
 
 ### Required libraries and packages
 
-* [Pyaudio](https://pypi.org/project/PyAudio/).
+* [Pyaudio](https://pypi.org/project/PyAudio/)
 
-* [Pydub](https://pypi.org/project/pydub/).
+* [Pydub](https://pypi.org/project/pydub/)
 
-* [Sounddevice](https://python-sounddevice.readthedocs.io/en/0.4.6/).
+* [Sounddevice](https://python-sounddevice.readthedocs.io/en/0.4.6/)
 
-* [FFmpeg](https://ffmpeg.org/).
+* [FFmpeg](https://ffmpeg.org/)
 
-* [Tkinter](https://docs.python.org/3/library/tkinter.html).
+* [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
-* [Matplotlib](https://matplotlib.org/).
+* [Matplotlib](https://matplotlib.org/)
 
 ```
 $ sudo pip install pyaudio
