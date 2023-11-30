@@ -108,7 +108,7 @@ The interface is designed to be highly user-friendly, with the utilization of ic
 
 ![](demo.png)
 
-Audio messages generated on the Raspberry can be transmitted using LoRa devices with the help of the [LoRaCTP](https://github.com/Kiyoshy/LoRaCTP) protocol.
+Audio messages generated on the Raspberry can be transmitted using LoRa devices using the [LoRaCTP](https://github.com/Kiyoshy/LoRaCTP) protocol.
 
 ![](prototype.jpg)
 
