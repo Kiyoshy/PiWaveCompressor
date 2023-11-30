@@ -30,7 +30,7 @@ $ chmod -R 755 LCD-show
 $ cd LCD-show/
 $ sudo ./LCD35-show
 ```
-For more information you can check [documentation](http://www.lcdwiki.com/3.5inch_RPi_Display). 
+For more information you can check [documentation](http://www.lcdwiki.com/3.5inch_RPi_Display)
 
 
 ### Prerequisites
@@ -108,7 +108,7 @@ The interface is designed to be highly user-friendly, with the utilization of ic
 
 ![](demo.png)
 
-Audio messages generated on the Raspberry can be transmitted using LoRa devices using the [LoRaCTP](https://github.com/Kiyoshy/LoRaCTP) protocol.
+Audio messages generated on the Raspberry can be transmitted using LoRa devices through the [LoRaCTP](https://github.com/Kiyoshy/LoRaCTP) protocol.
 
 ![](prototype.jpg)
 
