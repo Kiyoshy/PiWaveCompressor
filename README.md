@@ -6,7 +6,7 @@ Use case details can be found in this journal:
 > K. Nakamura, D. Hernández, J. M. Cecilia, P. Manzoni, M. Zennaro, J. -C. Cano and C. T. Calafate, 
 > "LADEA: A Software Infrastructure for Audio Delivery and Analytics," 
 > Mobile Networks and Applications (MONET), Volume 26, Oct 2021, pp. 2048-2054, 
-> [doi: 10.1007/s11036-021-01747-z.](https://doi.org/10.1007/s11036-021-01747-z)
+> [doi: 10.1007/s11036-021-01747-z](https://doi.org/10.1007/s11036-021-01747-z)
 
 
 ## Getting started
