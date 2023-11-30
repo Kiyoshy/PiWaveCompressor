@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Technical details
 
-* [Rasp Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/) the final revision of the third-generation single-board computer.
+* [Raspberry Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/) the final revision of the third-generation single-board computer.
 
 * [Raspberry Pi OS Desktop](https://www.raspberrypi.com/software/operating-systems/).
 
@@ -110,7 +110,7 @@ The interface is designed to be highly user-friendly, with the utilization of ic
 
 Audio messages generated on the Raspberry can be transmitted using LoRa devices with the help of the [LoRaCTP](https://github.com/Kiyoshy/LoRaCTP) protocol.
 
-![](prototype.png)
+![](prototype.jpg)
 
 
 ## Authors
